@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/phone_specs"
+        android:title="@string/phone_specs" />
+
+    <item
+        android:id="@+id/phone_pic_activity"
+        android:title="@string/phone_pic_activity" />
+
+    <item
+        android:id="@+id/phone_website"
+        android:title="@string/phone_website" />
+
+</menu>
